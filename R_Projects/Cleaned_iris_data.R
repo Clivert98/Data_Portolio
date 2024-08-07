@@ -28,15 +28,15 @@ iris$Species <- as.factor(iris$Species)
 # Check the datatypes for all columns are appropiate
 str(iris)
 
-# Rename Columns for Consistency
+# Renaming Columns for Consistency
 names(iris) <- tolower(names(iris))
 names(iris) <- gsub("\\.", "_", names(iris))
 
-# Remove Duplicates
+# Removing Duplicates
 iris <- iris[!duplicated(iris), ] # Checks for and removes any duplicated rows
 dim(iris) # 149 rows and 5 columns
 
-# Transform Features
+# Transforming Features
 # Creating a new feature, such as ratio of petal length to width:
 iris <- iris %>%
     mutate(petal_length_width_ratio = petal_length / petal_width)
@@ -47,4 +47,5 @@ summary(iris)
 # View the structure of the Transformed data
 str(iris)
 
+#Saving the new cleaned data
 write.csv(iris, "cleaned_iris_data.csv")
