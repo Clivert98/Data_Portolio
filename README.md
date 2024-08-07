@@ -14,4 +14,4 @@ This is my [training_files](./Training_files/) for data analsyis
 - R
 
 ## Power BI Assignment
-The data used for my [Power_BI_assignment.pptx] (Ehnicity_data.csv)
+The data used for my [Power_Bi_assignment.pptx]  (Ehnicity_data.csv)
