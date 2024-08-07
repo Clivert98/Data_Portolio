@@ -12,11 +12,8 @@ This is my [training_files](./Training_files/) for data analsyis
 - Power BI
 - SQL 
 - R
-<<<<<<< HEAD
 
-## Data Visualisation Project with 
-=======
-
+# Data Visualisation 
 ## Power BI Projects
 ### 1. Power BI Assignment
 This is the data [Ethnicity_data.csv](./Ethnicity_data.csv) I used for my [Power_Bi_assignment.pptx](./Power_Bi_Projects/Power_Bi_assignment.pptx).
