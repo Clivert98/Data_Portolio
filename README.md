@@ -12,3 +12,6 @@ This is my [training_files](./Training_files/) for data analsyis
 - Power BI
 - SQL 
 - R
+
+## Power BI Assignment
+The data used for my [Power]
