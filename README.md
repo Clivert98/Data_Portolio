@@ -3,5 +3,12 @@ This is my **data analysis portfolio** and here you will find  my projects data 
 Programmes used: SQL, R, Python, Tableau, Power BI, and R
 https://www.linkedin.com/in/clivert-ayisi-ansah/
 
-This is my [](http://) 
-Thesepython. my [training_files](./) for data analsyis
+
+This is my [training_files](./Training_files/) for data analsyis
+
+## Topics covered in this bootcamp
+- Excel
+- Tableau
+- Power BI
+- SQL 
+- R
