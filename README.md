@@ -1,4 +1,4 @@
-# Portfolio
+![download](https://github.com/user-attachments/assets/e0d7134b-44ae-48ac-8e3b-f49db160f79b) # Portfolio
 This is my **data analysis portfolio** and here you will find  my projects data analysis and work I have done so far from University and Bootcamp.
 Programmes used: SQL, R, Python, Tableau, Power BI, and R
 https://www.linkedin.com/in/clivert-ayisi-ansah/
