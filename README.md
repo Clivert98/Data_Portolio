@@ -9,9 +9,9 @@ https://www.linkedin.com/in/clivert-ayisi-ansah/
 This is my [training_files](./Training_files/) for data analsyis
 
 ### Topics covered in this bootcamp
-- <img src="https://github.com/user-attachments/assets/3bad1f44-d2b5-42ff-a3c8-db2d8f495d0c" style="width: 40px; height: 40px;" alt="Your image description"> Excel
-- Tableau
-- Power BI
+- <img src="https://github.com/user-attachments/assets/3bad1f44-d2b5-42ff-a3c8-db2d8f495d0c" style="width: 50px; height: 40px;" alt="Your image description"> 
+- <img src="https://github.com/user-attachments/assets/05a4ab85-b9cd-459c-9da6-43f6ff2e7832" width="60" height="40"> 
+- <img src="https://github.com/user-attachments/assets/4cadd8f3-8fea-4708-b40f-abbaf3a78fc0" style="width: 60px; height: 60px;">
 - SQL 
 - R
 
