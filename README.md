@@ -16,6 +16,7 @@ This is my [training_files](./Training_files/) for data analsyis
 - <img src="https://github.com/user-attachments/assets/d1fd686f-b4f2-458b-8684-1a97d634451a" style="width: 60px; height: 40px;">
 
 # 💻 Data Visualisation 
+
 ## Power BI Projects
 ### 1. Power BI Assignment
 This is the data [Ethnicity_data.csv](./Ethnicity_data.csv) I used for my [Power_Bi_assignment.pptx](./Power_Bi_Projects/Power_Bi_assignment.pptx).
