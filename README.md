@@ -27,3 +27,6 @@ I first cleaned the Iris Dataset in R using this code [Cleaned_iris_data.R](./R_
 
 ### 2. Titanic Data
 I cleaned the Titanic dataset in R using this code [Cleaned_Titanic_data.R](./R_Projects/Cleaned_Titanic_data.R), then created visualisations to explore the data [Graphs_for_Titanic_Dataset.R](./R_Projects/Graphs_for_Titanic_Dataset.R). The R markdown can be found for this project here : [Rmarkdown](./R_Projects/Titanic_Rmarkdown).
+
+## SQL Projects
+### 1. The data i used for employees project is contained in the [training_files](./Training_files). The code for this [project](./SQL_Projects/assignment-employees.sql) 
