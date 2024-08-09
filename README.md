@@ -19,11 +19,11 @@ This is my [training_files](./Training_files/) for data analsyis
 
 ## Power BI Projects
 ### 1. Power BI Assignment
-This is the data [Ethnicity_data.csv](./Ethnicity_data.csv) I used for my [Power_BI_ethnicity_html](./PPower_BI_ethnicity_html) project.
+This is the data [Ethnicity_data.csv](./Ethnicity_data.csv) I used for my [Power_BI_ethnicity_html](./Power_Bi_Projects/Power_BI_ethnicity_html) project.
 
 ## R Projects
 ### 1. Iris Data
 I first cleaned the Iris Dataset in R using this code [Cleaned_iris_data.R](./R_Projects/Cleaned_iris_data.R). Then created 
 
 ### 2. Titanic Data
-I cleaned the Titanic dataset in R using this code [Cleaned_Titanic_data.R](./R_Projects/Cleaned_Titanic_data.R), then created visualisations to explore the data [Graphs_for_Titanic_Dataset.R](./R_Projects/Graphs_for_Titanic_Dataset.R).
+I cleaned the Titanic dataset in R using this code [Cleaned_Titanic_data.R](./R_Projects/Cleaned_Titanic_data.R), then created visualisations to explore the data [Graphs_for_Titanic_Dataset.R](./R_Projects/Graphs_for_Titanic_Dataset.R). The R markdown can be found for this project here : [Rmarkdown](./R_Projects/Titanic_Rmarkdown).
