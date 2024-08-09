@@ -15,11 +15,14 @@ This is my [training_files](./Training_files/) for data analsyis
 - <img src="https://github.com/user-attachments/assets/8c69f718-be5d-4cc3-89a1-800a708a4ef6" style="width: 60px; height: 60px;">
 - <img src="https://github.com/user-attachments/assets/d1fd686f-b4f2-458b-8684-1a97d634451a" style="width: 60px; height: 40px;">
 
+
 # 💻 Data Visualisation 
 
 ## Power BI Projects
 ### 1. Power BI Assignment
 This is the data [Ethnicity_data.csv](./Ethnicity_data.csv) I used for my [Power_BI_Assignment](./Power_Bi_Projects/Power_BI_ethnicity_html) project.
+
+
 
 ## R Projects
 ### 1. Iris Data
@@ -28,5 +31,8 @@ I first cleaned the Iris Dataset in R using this code [Cleaned_iris_data.R](./R_
 ### 2. Titanic Data
 I cleaned the Titanic dataset in R using this code [Cleaned_Titanic_data.R](./R_Projects/Cleaned_Titanic_data.R), then created visualisations to explore the data [Graphs_for_Titanic_Dataset.R](./R_Projects/Graphs_for_Titanic_Dataset.R). The R markdown can be found for this project here : [Rmarkdown](./R_Projects/Titanic_Rmarkdown).
 
+
+
 ## SQL Projects
-### 1. The data i used for employees project is contained in the [training_files](./Training_files). The code for this [project](./SQL_Projects/assignment-employees.sql) 
+### 1. Employee Data
+The data i used for employees project is contained in the [training_files](./Training_files). The code for this [project](./SQL_Projects/assignment-employees.sql) 
