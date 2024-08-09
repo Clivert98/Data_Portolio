@@ -19,7 +19,7 @@ This is my [training_files](./Training_files/) for data analsyis
 
 ## Power BI Projects
 ### 1. Power BI Assignment
-This is the data [Ethnicity_data.csv](./Ethnicity_data.csv) I used for my [Power_BI_ethnicity_html](./Power_Bi_Projects/Power_BI_ethnicity_html) project.
+This is the data [Ethnicity_data.csv](./Ethnicity_data.csv) I used for my [Power_BI_Assignment](./Power_Bi_Projects/Power_BI_ethnicity_html) project.
 
 ## R Projects
 ### 1. Iris Data
